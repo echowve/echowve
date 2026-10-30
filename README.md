@@ -1,8 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=15007613)
 <div align="center">
 
-# Longxiang Jiang · echowve
-
 **Scientific Machine Learning · Graph Neural Networks · Physics-Informed Learning · LLM & RAG · CFD Surrogates**
 
 [![GitHub](https://img.shields.io/badge/GitHub-echowve-181717?logo=github)](https://github.com/echowve)
@@ -19,18 +17,7 @@ generalizable and physically consistent **AI4Science** and **LLM applications**.
 </div>
 
 ---
-
-## 🎓 Education
-
-| Period | Institution | Major / Degree |
-| --- | --- | --- |
-| 2017 – 2020 | **Wuhan University** | Pattern Recognition and Intelligent Systems · M.S. |
-
 > Research focus: scientific machine learning, physics-informed graph neural networks, computer vision, and LLM applications.
-
-## 📍 Work Location
-
-- **Chengdu, Sichuan, China**
 
 ## 🔭 Research & Engineering Interests
 
